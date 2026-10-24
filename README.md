@@ -2,8 +2,7 @@
 # Date : 		
 
 # Objective
-
-          “To configure and test basic LAN connectivity between two PCs using a switch.”
+To configure and test basic LAN connectivity between two PCs using a switch.
 ________________________________________
 # Apparatus/Tools Required
 •	Cisco Packet Tracer Software
@@ -12,7 +11,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+
+<img width="1600" height="847" alt="98449c48-857e-4fb0-a126-cc4a9b80c42a" src="https://github.com/user-attachments/assets/ce033a03-f767-4470-a0c4-001770c98540" />
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,6 +39,9 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="860" height="542" alt="98d95447-016f-4710-9d27-13f5a3d5a504" src="https://github.com/user-attachments/assets/8e1c33b2-6eaf-44aa-80aa-86c8d732b99d" />
+<img width="933" height="637" alt="2ee1ecda-e8a5-4a72-8393-5d31550d26b4" src="https://github.com/user-attachments/assets/9a0abb5c-1e2a-4cb4-95d7-bc086e12afcd" />
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
