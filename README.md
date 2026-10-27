@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+
 
 # Objective
 To configure and test basic LAN connectivity between two PCs using a switch.
